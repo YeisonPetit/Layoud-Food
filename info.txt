@@ -1,0 +1,124 @@
+# ************************************ #
+#      INFORMACIÓN DE RECETAS MAIN     #
+# ************************************ #
+
+Nombre: Pancakes de avena y fresa con jarabe de miel
+categoría: Desayuno
+Tiempo: 30 minutos
+
+-------------
+Nombre: Salmón asado con lima fresca y salsa de jengibre
+categoría: Pescado
+Tiempo: 30 minutos
+
+-------------
+Nombre: Gran Hamburguesa de carne de res Wagyu
+categoría: Aperitivo
+Tiempo: 30 minutos
+
+-------------
+Nombre: Ensalada mixta saludable y fresca con mayonesa
+categoría: Saludable
+Tiempo: 30 minutos
+
+-------------
+Nombre: Albóndigas de pollo con queso crema
+categoría: Carne
+Tiempo: 30 minutos
+
+-------------
+Nombre: Pasta cremosa de pollo y tocino
+categoría: Fídeos
+Tiempo: 30 minutos
+
+-------------
+Nombre: Pancakes de avena y fresa con jarabe de miel
+categoría: Carne
+Tiempo: 30 minutos
+
+-------------
+Nombre: Arroz con pollo y verduras en una sola olla
+categoría: Aperitivo
+Tiempo: 30 minutos
+
+# ************************************ #
+#          RECETAS ADICIONALES         #
+# ************************************ #
+
+Nombre: Ensalada tropical de frutas con super alimentos
+categoría: Saludable
+Tiempo: 30 minutos
+
+-------------
+Nombre: Filete de carne de Wagyu con papas fritas
+categoría: Carne
+Tiempo: 30 minutos
+
+-------------
+Nombre: Arroz frito japonés con espárragos
+categoría: Oriental
+Tiempo: 30 minutos
+
+-------------
+Nombre: Taco vegetariano de coliflor y nueces
+categoría: Occidental
+Tiempo: 30 minutos
+
+-------------
+Nombre: Ensalada de pollo arcoíris con almendras y miel
+categoría: Saludable
+Tiempo: 30 minutos
+
+-------------
+Nombre: Sandwich picante de barbacoa con papas fritas
+categoría: Aperitivo
+Tiempo: 30 minutos
+
+-------------
+Nombre: Arroz frito japonés con espárragos
+categoría: Mariscos
+Tiempo: 30 minutos
+
+-------------
+Nombre: Sopa ramen de pollo con champiñones
+categoría: Oriental
+Tiempo: 30 minutos
+
+
+
+ICONOS UTILIZADOS EN EL HTML
+CLOSE = <i class="fa-solid fa-x"></i>
+BARRAS (ICONO MÓVIL) = <i class="fa-solid fa-bars-staggered"></i>
+FACEBOOK = <i class="fa-brands fa-facebook"></i>
+INSTAGRAM = <i class="fa-brands fa-instagram"></i>
+WHATSAPP = <i class="fa-brands fa-whatsapp"></i>
+FUEGO = <i class="fa-solid fa-fire-flame-curved"></i>
+RELOJ = <i class="fa-solid fa-clock"></i>
+UTENSILIOS = <i class="fa-solid fa-utensils"></i>
+PLAY = 	<i class="fa-solid fa-circle-play"></i>
+CORAZON = <i class="fa-solid fa-heart"></i>
+
+
+# ************************************ #
+#         GRADIENTES CATEGORIAS        #
+# ************************************ #
+
+	.breakfast {
+		background: radial-gradient(circle, #cdd6b315 0%, #44573015 100%);
+	}
+
+	.vegan {
+		background: radial-gradient(circle, #ced9ad15 0%, #649f2915 100%);
+	}
+
+	.meat {
+		background: radial-gradient(circle, #d0afa715 0%, #dd0a0a15 100%);
+	}
+
+	.desert {
+		background: radial-gradient(circle, #ffef7315 0%, #f5970015 100%);
+	}
+
+	.chocolate {
+		background: radial-gradient(circle, #9a5d4630 0%, #87462f15 100%);
+	}
