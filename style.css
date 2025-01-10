@@ -72,7 +72,7 @@ header{
     @media (max-width: 768px){
         .btn_menu_responsive{
             display: block;
-            margin-right: 50px;
+            margin-right: 10px;
         }
 
         .social_links{
@@ -387,6 +387,7 @@ main{
         margin: 0 auto;
         margin-top: 50px;    
         height: 100%;
+        position: relative;
     }
     .img_receta{
         width: 100%;
@@ -428,6 +429,28 @@ main{
     .img_receta #corazon:hover{
         color: rgb(236, 59, 59);
         scale: 1.1;
+    }
+
+    .like{
+        width: 200px;
+        background-color: #942626;
+        position: fixed;
+        display: none;
+
+        .fa-heart{
+            color: #000000;
+            background-color: #942626;
+        }
+
+    }
+    .img_receta .corazonn.active{
+        color: #000000;
+        scale: 1.1;
+    }
+
+    .img_receta corazonn:hover{
+        background-color: #000000;
+        scale: 1.6;
     }
 
     .carta_receta{
@@ -722,6 +745,17 @@ main{
             .descripcion p{
                 text-align: center;
                 width: 400px;
+            }
+
+            .categorias{
+                margin-top: 100px;
+            }
+            .categoria_texto h1{
+                font-size: 1.9rem;
+            }
+
+            .categoria_texto a{
+                font-size: 1rem;
             }
 
             .recetas_cart{
